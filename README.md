@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 👾
+## Welcome!
  <div>
    <a href="https://https://github.com/kisalto">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kisalto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Contatos:
+  ### Reach me!:
  
 <div> 
   <a href = "mailto:joshuabinotto2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
